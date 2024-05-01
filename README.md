@@ -1,4 +1,4 @@
-# languageclassifier #
+# Language Classifier #
 ## DSC 140A: Probabilistic Modeling and Machine Learning at UC San Diego ##
 
 A simple Least Squares Classifier. Predicts whether a given word is Spanish or French based on a few bi-gram features.
